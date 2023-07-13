@@ -1,0 +1,5 @@
+pytest
+coverage
+
+-e .
+-r requirements.txt
